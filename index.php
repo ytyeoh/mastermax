@@ -6,7 +6,6 @@
   document.writeln=function() {};
 </script>
 
-<script type="text/javascript" id="www-widgetapi-script" src="../../../s.ytimg.com/yts/jsbin/www-widgetapi-vfleXqn_w/www-widgetapi.js" async=""></script><script src="https://www.youtube.com/iframe_api?v=2.9.7" id="YTAPI"></script>
     <!-- ========== Meta Tags ========== -->
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -40,8 +39,8 @@
     <![endif]-->
 
     <!-- ========== Google Fonts ========== -->
-    <link href="../../../fonts.googleapis.com/css_family=Open+Sans.css" rel="stylesheet">
-    <link href="../../../fonts.googleapis.com/css_family=Poppins_400,500,600,700,800.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Poppins:400,500,600,700,800" rel="stylesheet">
 
 </head>
 
@@ -54,187 +53,15 @@
     <!-- Header 
     ============================================= -->
     <header id="home">
-
-        <!-- Start Navigation -->
-        <nav class="navbar navbar-default navbar-fixed navbar-transparent white bootsnav on no-full">
-
-            <!-- Start Top Search -->
-            <div class="container">
-                <div class="row">
-                    <div class="top-search">
-                        <div class="input-group">
-                            <form action="#">
-                                <input type="text" name="text" class="form-control" placeholder="Search">
-                                <button type="submit">
-                                    <i class="fas fa-search"></i>
-                                </button>  
-                            </form>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- End Top Search -->
-
-            <div class="container">
-
-                <!-- Start Header Navigation -->
-                <div class="navbar-header">
-                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
-                        <i class="fa fa-bars"></i>
-                    </button>
-                    <a class="navbar-brand" href="index.html">
-                        <img src="assets/img/logo-light.png" class="logo logo-display" alt="Logo">
-                        <img src="assets/img/logo.png" class="logo logo-scrolled" alt="Logo">
-                    </a>
-                </div>
-                <!-- End Header Navigation -->
-
-                <!-- Collect the nav links, forms, and other content for toggling -->
-                <div class="collapse navbar-collapse" id="navbar-menu">
-                    <ul class="nav navbar-nav navbar-right" data-in="#" data-out="#">
-                        <li class="dropdown">
-                            <a href="#" class="dropdown-toggle active" data-toggle="dropdown">Home</a>
-                            <ul class="dropdown-menu animated">
-                                <li><a href="index-1.html">Home Version One</a></li>
-                                <li><a href="index-2.html">Home Version Two</a></li>
-                                <li><a href="index-3.html">Home Version Three</a></li>
-                                <li><a href="index-4.html">Home Version Four</a></li>
-                                <li><a href="index-5.html">Home Version Five</a></li>
-                                <li><a href="index-6.html">Home Version Six</a></li>
-                                <li><a href="index-7.html">Home Version Seven <span class="badge">New</span></a></li>
-                                <li class="dropdown">
-                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Home Onepage</a>
-                                    <ul class="dropdown-menu animated">
-                                        <li><a href="index-onepage.html">Version One</a></li>
-                                        <li><a href="index-onepage-2.html">Version Two</a></li>
-                                        <li><a href="index-onepage-3.html">Version Three</a></li>
-                                        <li><a href="index-onepage-4.html">Version Four</a></li>
-                                        <li><a href="index-onepage-5.html">Version Five</a></li>
-                                    </ul>
-                                </li>
-                            </ul>
-                        </li>
-                        <li class="dropdown megamenu-fw">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Pages</a>
-                            <ul class="dropdown-menu megamenu-content animated" role="menu">
-                                <li>
-                                    <div class="row">
-                                        <div class="col-menu col-md-3">
-                                            <h6 class="title">Banner</h6>
-                                            <div class="content">
-                                                <ul class="menu-col">
-                                                    <li><a href="banner-1.html">Banner Video Version</a></li>
-                                                    <li><a href="banner-2.html">Banner Zoom Version</a></li>
-                                                    <li><a href="banner-3.html">Banner Slide Version</a></li>
-                                                    <li><a href="banner-4.html">Banner Clean Version</a></li>
-                                                    <li><a href="banner-5.html">Banner Single Image</a></li>
-                                                </ul>
-                                            </div>
-                                        </div><!-- end col-3 -->
-                                        <div class="col-menu col-md-3">
-                                            <h6 class="title">Footer</h6>
-                                            <div class="content">
-                                                <ul class="menu-col">
-                                                    <li><a href="footer-1.html">Footer Version One</a></li>
-                                                    <li><a href="footer-2.html">Footer Version Two</a></li>
-                                                    <li><a href="footer-3.html">Footer Version Three</a></li>
-                                                    <li><a href="footer-4.html">Footer Version Four</a></li>
-                                                </ul>
-                                            </div>
-                                        </div><!-- end col-3 -->
-                                        <div class="col-menu col-md-3">
-                                            <h6 class="title">Other Pages</h6>
-                                            <div class="content">
-                                                <ul class="menu-col">
-                                                    <li><a href="about-us.html">About us</a></li>
-                                                    <li><a href="contact.html">Contact</a></li>
-                                                    <li><a href="pricing-table.html">Pricing Table</a></li>
-                                                    <li><a href="faq.html">Faq</a></li>
-                                                    <li><a href="404.html">Error Page</a></li>
-                                                </ul>
-                                            </div>
-                                        </div><!-- end col-3 -->
-                                        <div class="col-menu col-md-3">
-                                            <h6 class="title">Additional Pages</h6>
-                                            <div class="content">
-                                                <ul class="menu-col">
-                                                    <li><a href="login.html">login</a></li>
-                                                    <li><a href="register.html">register</a></li>
-                                                </ul>
-                                            </div>
-                                        </div><!-- end col-3 -->
-                                    </div><!-- end row -->
-                                </li>
-                            </ul>
-                        </li>
-                        <li class="dropdown">
-                            <a href="#" class="dropdown-toggle active" data-toggle="dropdown">Gallery</a>
-                            <ul class="dropdown-menu animated">
-                                <li class="dropdown">
-                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Grid Colum</a>
-                                    <ul class="dropdown-menu animated">
-                                        <li><a href="gallery-grid-2-colum.html">Gallery Two Colum</a></li>
-                                        <li><a href="gallery-grid-3-colum.html">Gallery Three Colum</a></li>
-                                        <li><a href="gallery-grid-4-colum.html">Gallery Four Colum</a></li>
-                                    </ul>
-                                </li>
-                                <li class="dropdown">
-                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Masonary Colum</a>
-                                    <ul class="dropdown-menu animated">
-                                        <li><a href="gallery-2-colum.html">Gallery Two Colum</a></li>
-                                        <li><a href="gallery-3-colum.html">Gallery Three Colum</a></li>
-                                        <li><a href="gallery-4-colum.html">Gallery Four Colum</a></li>
-                                    </ul>
-                                </li>
-                            </ul>
-                        </li>
-                        <li class="dropdown">
-                            <a href="#" class="dropdown-toggle active" data-toggle="dropdown">Services</a>
-                            <ul class="dropdown-menu animated">
-                                <li><a href="services.html">Services Version One</a></li>
-                                <li><a href="services-2.html">Services Version Two</a></li>
-                                <li><a href="services-3.html">Services Version Three</a></li>
-                                <li><a href="services-4.html">Services Version Four</a></li>
-                                <li><a href="services-details.html">Services Details</a></li>
-                            </ul>
-                        </li>
-                        <li class="dropdown">
-                            <a href="#" class="dropdown-toggle active" data-toggle="dropdown">Team</a>
-                            <ul class="dropdown-menu animated">
-                                <li><a href="team.html">Team Version One</a></li>
-                                <li><a href="team-2.html">Team Version Two</a></li>
-                                <li><a href="team-3.html">Team Version Three</a></li>
-                                <li><a href="team-4.html">Team Version Four</a></li>
-                                <li><a href="team-single.html">Team Single</a></li>
-                            </ul>
-                        </li>
-                        <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Blog</a>
-                            <ul class="dropdown-menu animated">
-                                <li><a href="blog-standard.html">Blog Standard</a></li>
-                                <li><a href="blog-left-sidebar.html">Blog Left Sidebar</a></li>
-                                <li><a href="blog-right-sidebar.html">Blog Right Sidebar</a></li>
-                                <li><a href="blog-single.html">Blog Single Standard</a></li>
-                                <li><a href="blog-single-left-sidebar.html">Single Left Sidebar</a></li>
-                                <li><a href="blog-single-right-sidebar.html">Single Right Sidebar</a></li>
-                            </ul>
-                        </li>
-                        <li>
-                            <a href="contact.html">contact</a>
-                        </li>
-                    </ul>
-                </div><!-- /.navbar-collapse -->
-            </div>
-
-        </nav>
-        <!-- End Navigation -->
+    <?php include 'header.php';?>
+        
 
     </header>
     <!-- End Header -->
 
     <!-- Start Banner 
     ============================================= -->
-    <div class="banner-area inc-top-heading video-bg-live text-center bg-fixed" style="background-image: url(assets/img/banner/1.jpg);"><div class="mbYTP_wrapper" id="wrapper_mbYTP_video_1582169807427" style="position: absolute; z-index: 0; min-width: 100%; min-height: 100%; left: 0px; top: 0px; overflow: hidden; opacity: 0;"><iframe id="mbYTP_video_1582169807427" class="playerBox" style="position: absolute; z-index: 0; width: 100%; height: 100%; top: 0px; left: 0px; overflow: hidden; opacity: 1;" frameborder="0" allowfullscreen="1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" title="YouTube video player" width="640" height="360" src="https://www.youtube.com/embed/gOqlwlQjVis?autoplay=0&amp;modestbranding=1&amp;controls=0&amp;showinfo=0&amp;rel=0&amp;enablejsapi=1&amp;version=3&amp;playerapiid=mbYTP_video_1582169807427&amp;origin=http%3A%2F%2Fthememine.net&amp;allowfullscreen=true&amp;wmode=transparent&amp;iv_load_policy=3&amp;html5=1&amp;widgetid=1"></iframe><div class="YTPOverlay" style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%;"></div></div><div class="mbYTP_wrapper" id="wrapper_mbYTP_video_1582169807427" style="position: absolute; z-index: 0; min-width: 100%; min-height: 100%; left: 0px; top: 0px; overflow: hidden; opacity: 0;"><div id="mbYTP_video_1582169807427" class="playerBox" style="position: absolute; z-index: 0; width: 100%; height: 100%; top: 0px; left: 0px; overflow: hidden; opacity: 1;"></div><div class="YTPOverlay" style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%;"></div></div>
+    <div class="banner-area inc-top-heading video-bg-live text-center bg-fixed" style="background-image: url(assets/img/banner/1.jpg);"><div class="mbYTP_wrapper" id="wrapper_mbYTP_video_1582169807427" style="position: absolute; z-index: 0; min-width: 100%; min-height: 100%; left: 0px; top: 0px; overflow: hidden; opacity: 0;"><!-- <iframe id="mbYTP_video_1582169807427" class="playerBox" style="position: absolute; z-index: 0; width: 100%; height: 100%; top: 0px; left: 0px; overflow: hidden; opacity: 1;" frameborder="0" allowfullscreen="1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" title="YouTube video player" width="640" height="360" src="https://www.youtube.com/embed/gOqlwlQjVis?autoplay=0&amp;modestbranding=1&amp;controls=0&amp;showinfo=0&amp;rel=0&amp;enablejsapi=1&amp;version=3&amp;playerapiid=mbYTP_video_1582169807427&amp;origin=http%3A%2F%2Fthememine.net&amp;allowfullscreen=true&amp;wmode=transparent&amp;iv_load_policy=3&amp;html5=1&amp;widgetid=1"></iframe> --><div class="YTPOverlay" style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%;"></div></div><div class="mbYTP_wrapper" id="wrapper_mbYTP_video_1582169807427" style="position: absolute; z-index: 0; min-width: 100%; min-height: 100%; left: 0px; top: 0px; overflow: hidden; opacity: 0;"><div id="mbYTP_video_1582169807427" class="playerBox" style="position: absolute; z-index: 0; width: 100%; height: 100%; top: 0px; left: 0px; overflow: hidden; opacity: 1;"></div><div class="YTPOverlay" style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%;"></div></div>
         <div class="player mb_YTPlayer" data-property="{videoURL:'gOqlwlQjVis',containment:'.video-bg-live', showControls:false, autoPlay:true, zoom:0, loop:true, mute:true, startAt:3, opacity:1, quality:'default'}" id="video_1582169807427" style="display: none; position: relative;"></div>
         <div id="bootcarousel" class="carousel transparent-nav slide carousel-fade animate_text" data-ride="carousel">
             <!-- Wrapper for slides -->
@@ -371,7 +198,7 @@
                     <div class="col-md-6 video-info">
                         <div class="thumb">
                             <img src="assets/img/about/5.jpg" alt="Thumb">
-                            <a href="https://www.youtube.com/watch?v=owhuBrGIOsE" class="popup-youtube light video-play-button item-center">
+                            <a href="" class="popup-youtube light video-play-button item-center">
                                 <i class="fa fa-play"></i>
                             </a>
                         </div>
@@ -1260,10 +1087,8 @@
     <script src="assets/js/isotope.pkgd.min.js"></script>
     <script src="assets/js/imagesloaded.pkgd.min.js"></script>
     <script src="assets/js/count-to.js"></script>
-    <script src="assets/js/YTPlayer.min.js"></script>
     <script src="assets/js/bootsnav.js"></script>
     <script src="assets/js/main.js"></script>
-    
 
 
 </div></body></html>
